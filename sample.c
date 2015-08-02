@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define VER 2.1
+#define VER 2.2
 
 char *comment() {
     return "test3 develop started!!!";
