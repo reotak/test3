@@ -5,7 +5,7 @@
 
 
 char *comment() {
-    return "test3 develop started!!!";
+    return "test3 complete";
 }
 
 int main() {
