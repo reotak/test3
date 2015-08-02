@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define VER 1.1
+#define VER 1.2
 
 char *comment() {
     return "test3 is created";
