@@ -3,7 +3,7 @@
 #define VER 1.2
 
 char *comment() {
-    return "test3 develop started";
+    return "test3 develop started!!!";
 }
 
 int main() {
