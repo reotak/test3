@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-#define VER 1
-#define SUB_VER 4
+#define VER 3
+#define SUB_VER 0
 
 char *comment() {
-    return "test3 develop started!!!";
+    return "test3 complete";
 }
 
 int main() {
