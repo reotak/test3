@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-#define VER 1.2
+#define VER 1
+#define SUB_VER 3
 
 char *comment() {
     return "test3 develop started!!!";
 }
 
 int main() {
-    printf("%lf : %s\n", VER, comment());
+    printf("%d.%d : %s\n", VER, SUB_VER, comment());
 }
